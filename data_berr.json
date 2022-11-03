@@ -1,0 +1,75 @@
+{
+  "0": {
+    "q": "Es el proceso de analizar grandes cantidades de datos para encontrar tendencias y patrones:",
+    "answer": "Clasificación de datos"
+  },
+  "1": {
+    "q": "El algoritmo de clúster o agrupamiento que puede ser utilizado para identificar clústeres de cualquier forma en un conjunto de datos que contiene ruido y valores atípicos, se denomina:",
+    "answer": "K-Means"
+  },
+  "2": {
+    "q": "¿Cuál no sería una fuente de los datos según su procedencia en BigData?",
+    "answer": "Datos generados por interacción de sensores inteligentes"
+  },
+  "3": {
+    "q": "¿A qué se denomina como un modelo de problema o clustering en Machine learning?",
+    "answer": "Aprendizaje no supervisado "
+  },
+  "4": {
+    "q": "Corresponde a uno de los tipos de Big Data:",
+    "answer": "Semiestructurados"
+  },
+  "5": {
+    "q": "¿Dónde se encuentran almacenados el conjunto de funciones, datos y documentación?",
+    "answer": "Paquetes"
+  },
+  "6": {
+    "q": "Indique la opción correcta referente a los tipos de objetos con los que trabaja R",
+    "answer": "Vectores, matrices y arrays, data frame, listas, funciones"
+  },
+  "7": {
+    "q": "¿Cuál es el porcentaje del tiempo de un análisis de datos que se suele decir que ocupa el procesado/limpieza de datos?",
+    "answer": "90%"
+  },
+  "8": {
+    "q": "¿Cómo se denominan los tipos de datos que provienen de 2 variables al mismo tiempo?",
+    "answer": "Bivariados"
+  },
+  "9": {
+    "q": "Es una disciplina emergente en la que confluyen diversos campos relacionados con el diseño, la comunicación, la programación, etc:",
+    "answer": "Requerimientos funcionales"
+  },
+  "10": {
+    "q": "¿Cuál no es una característica de Haadop?",
+    "answer": "Se requiere el uso de una licencia para su uso y utiliza hardware básico para almacenar grandes cantidades de datos"
+  },
+  "11": {
+    "q": "¿Cuál es el framework open source para almacenar datos y ejecutar aplicaciones en clusters de hardware básicos?",
+    "answer": "Hadoop"
+  },
+  "12": {
+    "q": "¿Qué es lo que proporciona un almacenamiento masivo para cualquier tipo de datos, un enorme poder de procesamiento y la capacidad de manejar tareas o trabajos prácticamente ilimitados?",
+    "answer": "Hadoop"
+  },
+  "13": {
+    "q": "Es una forma de análisis avanzado que utiliza datos nuevos e históricos para predecir la actividad futura, el comportamiento y las tendencias:",
+    "answer": "Analítica predictiva"
+  },
+  "14": {
+    "q": "Cual no es un ejemplo de analítica predictiva",
+    "answer": "Detectar y reducir el fraude financiero"
+  },
+  "15": {
+    "q": "¿A qué se debe que cada vez más organizaciones recurren a la analítica predictiva para mejorar su base de operación y lograr una ventaja competitiva?",
+    "answer": "Plan estratégico"
+  },
+  "16": {
+    "q": "Se denomina __________ cuando por medio de la inducción busca determinar propiedades de la distribución generadora a partir de un conjunto de datos observados",
+    "answer": "Estadística inferencial"
+  },
+  "17": {
+    "q": "¿Cuál sería el comando en RStudio que permite fijar el directorio donde queremos guardar nuestros ficheros?",
+    "answer": "setwd"
+  },
+  "18": { "q": "Es una característica de R:", "answer": "BI" }
+}

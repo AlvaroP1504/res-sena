@@ -1,0 +1,75 @@
+{
+  "0": {
+    "q": "¿Cuál es el porcentaje del tiempo de un análisis de datos que se suele decir que ocupa el procesado/limpieza de datos?",
+    "answer": "90%"
+  },
+  "1": {
+    "q": "Se denominan datos ____ a aquellos que definen la pertenencia de un objeto estadístico a una categoría o clase de acuerdo a alguno de sus atributos",
+    "answer": "Categóricos"
+  },
+  "2": {
+    "q": "¿Por qué es una importancia de Hadoop?",
+    "answer": "Capacidad para almacenar y procesar grandes cantidades de cualquier tipo de dato rápidamente"
+  },
+  "3": { "q": "¿Cuál es una ventaja de Hadoop?", "answer": "escalabilidad" },
+  "4": {
+    "q": "¿Cuál es el framework open source para almacenar datos y ejecutar aplicaciones en clusters de hardware básicos?",
+    "answer": "Hadoop"
+  },
+  "5": {
+    "q": "Se lo conoce por sus tres “V”: volumen, variedad y velocidad:",
+    "answer": "Big data"
+  },
+  "6": {
+    "q": "Las empresas con más éxito con Big Data consiguen valor con una de las siguientes formas:",
+    "answer": "Mas rápido, mejor toma de decisiones"
+  },
+  "7": {
+    "q": "¿Cuál no sería una fuente de los datos según su procedencia en BigData?",
+    "d": true,
+    "answer": "Páginas web"
+  },
+  "8": { "q": "¿Cuál es una ventana de R?", "answer": "BI" },
+  "9": {
+    "q": "¿Dónde se encuentran almacenados el conjunto de funciones, datos y documentación?",
+    "d": true,
+    "answer": "Librerias"
+  },
+  "10": {
+    "q": "Los arboles de decisión son un _____ en la analítica predictiva",
+    "answer": "Agrupamiento"
+  },
+  "11": {
+    "q": "Cada vez más organizaciones recurren a la analítica predictiva para mejorar su base de operación y lograr una ventaja competitiva, debido a:",
+    "answer": "Volúmenes y tipos de datos cada vez mayores, además de un mayor interés en el uso de datos para producir insights valiosos."
+  },
+  "12": {
+    "q": "¿A qué se debe que cada vez más organizaciones recurren a la analítica predictiva para mejorar su base de operación y lograr una ventaja competitiva?",
+    "answer": "Plan estratégico"
+  },
+  "13": {
+    "q": "¿Cuáles son las pestañas del Panel de entorno en R Studio?",
+    "answer": "Environment y History."
+  },
+  "14": {
+    "q": "Permite recuperar archivos tanto en discos locales como en los discos de equipos remotos a través de la red, incluso si sus estructuras de partición están dañadas. Se refiere a:",
+    "answer": "R Studio"
+  },
+  "15": {
+    "q": "Es una característica de R:",
+    "d": true,
+    "answer": "Almacenamiento y manipulación efectiva de datos"
+  },
+  "16": {
+    "q": "Es un beneficio de la minería de datos:",
+    "answer": "Desarrollar campañas de marketing más efectivas y personalizadas"
+  },
+  "17": {
+    "q": "Es una categoría de las técnicas predictivas:",
+    "answer": "Clasificación"
+  },
+  "18": {
+    "q": "¿Cuál es una categoría de las técnicas predictivas?",
+    "answer": ""
+  }
+}
