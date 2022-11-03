@@ -1,0 +1,72 @@
+{
+  "0": { "q": "Es una característica de R:", "answer": "BI" },
+  "1": {
+    "q": "Se denomina __________ cuando por medio de la inducción busca determinar propiedades de la distribución generadora a partir de un conjunto de datos observados",
+    "answer": "Estadística inferencial"
+  },
+  "2": {
+    "q": "¿Cuál es un beneficio de la minería de datos?",
+    "answer": "Comprender mejor a los clientes y su recorrido"
+  },
+  "3": {
+    "q": "Es el proceso de analizar grandes cantidades de datos para encontrar tendencias y patrones:",
+    "answer": "Minería de datos"
+  },
+  "4": {
+    "q": "¿Cuál es una categoría de las técnicas predictivas?",
+    "answer": "Detección de anomalías"
+  },
+  "5": {
+    "q": "Es una representación simbólica, una característica de una entidad que pueden describir o explicar hechos empíricos, acontecimientos y a las entidades mismas que se están estudiando:",
+    "answer": "Dato"
+  },
+  "6": {
+    "q": "Se denominan datos ____________ a aquellos que definen la pertenencia de un objeto estadístico a una categoría o clase de acuerdo a alguno de sus atributos",
+    "answer": "Categóricos"
+  },
+  "7": {
+    "q": "Es una disciplina emergente en la que confluyen diversos campos relacionados con el diseño, la comunicación, la programación, etc:",
+    "answer": "Visualización de datos"
+  },
+  "8": {
+    "q": "¿Cuál sería un ejemplo para poder aplicar la tecnología de Big Data?",
+    "answer": "Una mediana empresa que utiliza un volumen de datos que puede alcanzar los 30TB y mucho mas"
+  },
+  "9": {
+    "q": "Al proceso que analiza e interpreta grandes volúmenes de datos, tanto estructurados como no estructurados se le denomina:",
+    "answer": "Big data"
+  },
+  "10": {
+    "q": "Las empresas con más éxito con Big Data consiguen valor con una de las siguientes formas:",
+    "answer": "Mas rápido, mejor toma de decisiones"
+  },
+  "11": {
+    "q": "¿Cuál es el programa que nos permitirá interactuar con R de forma más amigable, además de facilitar muchas de las tareas de programación y análisis de datos en R?",
+    "answer": "RStudio"
+  },
+  "12": {
+    "q": "Indique la opción correcta referente a los tipos de objetos con los que trabaja R",
+    "answer": "Vectores, matrices y arrays, data frame, listas, funciones"
+  },
+  "13": {
+    "q": "¿Cuál es uno de los usos más populares de Hadoop hoy en día?",
+    "answer": "Almacenamiento y archivo de datos de bajo coste"
+  },
+  "14": { "q": "¿Cuál es una ventaja de Hadoop?", "answer": "escalabilidad" },
+  "15": {
+    "q": "¿Cuál es una característica de Hadoop?",
+    "answer": "Proporciona almacenamiento"
+  },
+  "16": {
+    "q": "¿A qué se debe que cada vez más organizaciones recurren a la analítica predictiva para mejorar su base de operación y lograr una ventaja competitiva?",
+    "answer": "Software más fácil de usar."
+  },
+  "17": {
+    "q": "¿Cuál es una importancia de la analítica predictiva?",
+    "answer": "Mejoramiento de las operaciones"
+  },
+  "18": {
+    "q": "Es una forma de análisis avanzado que utiliza datos nuevos e históricos para predecir la actividad futura, el comportamiento y las tendencias:",
+    "answer": "Analítica predictiva"
+  }
+}
